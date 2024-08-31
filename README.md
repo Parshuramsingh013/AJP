@@ -13,6 +13,7 @@ This lab manual covers practical exercises in Advanced Java Programming, focusin
 
 ## Client-Server Practices
 
+
 The manual includes exercises such as:
 
 1. **Basic Client-Server Communication**
